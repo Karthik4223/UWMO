@@ -12,7 +12,7 @@ import time
 model = torch.hub.load('ultralytics/yolov5', 'custom', path='best.pt')
 
 # Streamlit app layout
-st.title('YOLOv5 Underwater Marine Object Detection')
+st.title('Underwater Marine Object Detection (Fish,Star Fish)')
 st.write('Upload an image or video to detect underwater objects.')
 
 # Image or video file uploader
