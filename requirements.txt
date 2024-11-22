@@ -6,3 +6,4 @@ ultralytics
 opencv-python
 opencv-contrib-python
 torchvision
+cv2
