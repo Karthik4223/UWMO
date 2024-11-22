@@ -3,4 +3,6 @@ torch
 opencv-python-headless  # Use this instead of opencv-python for cloud environments
 Pillow
 ultralytics
-cv2
+opencv-python
+opencv-contrib-python
+torchvision
